@@ -1,0 +1,12 @@
+{
+  "name": "heapsort",
+  "version": "1.0.0",
+  "description": "Heap sort is based exclusively upon a binary heap data structure, where we find the largest element and sort it to the end of our unsorted collection. We use the properties of a complete binary tree to sort our collection efficiently.",
+  "main": "heapsort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
